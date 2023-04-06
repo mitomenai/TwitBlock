@@ -9,7 +9,7 @@ uBlock Origin to the rescue!
 This list removes the following:
 * Twitter Blue subscription menu item
 * Twitter Blue subscription settings menu item
-* Verified users (including Chief Nitwit himself)
+* Verified user tweets (including Chief Nitwit himself)
 
 ** This adblock list does not impact company (gold checkmark) or government entities (grey checkmark).
    
