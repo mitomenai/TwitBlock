@@ -4,7 +4,7 @@
 
 Elon Musk decided anyone can purchase the verified badge. Fortunately, what was once a sign of legitimacy is now a verified troll indicator. 
 
-uBlock Origin to the rescue!
+**uBlock Origin to the rescue!**
 
 This list removes the following:
 * Twitter Blue subscription menu item
