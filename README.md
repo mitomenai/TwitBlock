@@ -1,2 +1,3 @@
 # MakeTwitterGreatAgain
-Adblock list that mutes verified accounts
+Adblock list to remove Twitter Blue and verified users.
+   
