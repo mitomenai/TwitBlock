@@ -1,6 +1,6 @@
 ![Twitter Adblock](https://github.com/mitomenai/MakeTwitterGreatAgain/blob/main/logo.png?raw=true)
 
-# Anti-Verification List for Twitter
+# Anti-Verified Blocklist for Twitter
 
 Elon "Chief Nitwit" Musk decided anyone can purchase the verified badge. Fortunately, what was once a sign of legitimacy is now a verified troll indicator. 
 
