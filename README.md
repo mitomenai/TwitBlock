@@ -19,6 +19,6 @@ This list makes Twitter 50% less shitty and removes the following:
 
 ![Crying Elon Musk](https://github.com/mitomenai/MakeTwitterGreatAgain/blob/main/sad-elon.png?raw=true)
 
-Like the sore loser he is, it seems Salty Nut Elon became offended at the #BlockTheBlue movement and started [adding back verified badges](https://www.axios.com/2023/04/23/verified-checkmark-twitter-badge) to unpaying and dead Twitter users. 🧟‍♀️ Therefore, I believe the most effective solution for #BlockTheBlue would be to create a FOSS list of community-verified users and bundle it into an extension for Chrome and Firefox, which will be the future of this project.
+Like the sore loser he is, it seems Salty Nut Elon became offended at the #BlockTheBlue movement and started [adding back verified badges](https://www.axios.com/2023/04/23/verified-checkmark-twitter-badge) to non-paying and dead Twitter users. 🧟‍♀️ Therefore, I believe the most effective solution for #BlockTheBlue would be to create a FOSS list of community-verified users and bundle it into an extension for Chrome and Firefox, which will be the future of this project.
 
 💩
