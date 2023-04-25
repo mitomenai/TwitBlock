@@ -1,7 +1,7 @@
 ![Twitter Adblock](https://github.com/mitomenai/MakeTwitterGreatAgain/blob/main/logo.png?raw=true)
 
 # Anti-Verified Blocklist for Twitter
-
+          
 Elon "Chief Nitwit" Musk decided anyone can purchase the verified badge. Fortunately, what was once a sign of legitimacy is now a verified troll indicator. 
 
 **uBlock Origin to the rescue!**
@@ -14,6 +14,10 @@ This list makes Twitter 50% less shitty and removes the following:
 ** This adblock list does not impact company (gold checkmark) or government entities (grey checkmark).
    
 # Installation
+
+1. [Download uBlock Origin](https://github.com/gorhill/uBlock)
+
+2. [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/mitomenai/TwitBlock/main/list.txt&title=TwitBlock%20Anti-Verified%20Blocklist)
 
 # Future
 
